@@ -2,8 +2,16 @@
   "name": "asl-vue-custom-toaster",
   "version": "0.1.0",
   "description": "Customizable Vue toast provider with slots and deduplication",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslStudio/asl-vue-custom-toaster.git"
+  },
+  "homepage": "https://github.com/aslStudio/asl-vue-custom-toaster#readme",
+  "bugs": {
+    "url": "https://github.com/aslStudio/asl-vue-custom-toaster/issues"
+  },
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "asl",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
